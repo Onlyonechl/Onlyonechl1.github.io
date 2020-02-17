@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./docs/Serdes.md).
+[Serdes](./docs/Serdes.md).
 
 There should be whitespace between paragraphs.
 
